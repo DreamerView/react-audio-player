@@ -121,7 +121,7 @@ export default function AudioPlayer() {
             <div className="w-100 d-flex justify-content-center">
               <img
                 src={currentTrack.promo}
-                className="mx-auto rounded-4 mb-5"
+                className="mx-auto rounded-4 mb-4"
                 style={{ maxWidth: 200, width: "100%" }}
                 alt={currentTrack.title}
               />
