@@ -2,7 +2,7 @@
 
 A clean and modern React-based audio player built with **Bootstrap 5.3** and **Bootstrap Icons**. This project demonstrates how to build a fully functional music player UI with playlist, playback controls, and user-friendly features.
 
-[Player UI](public/preview.png)
+<img src="public/preview.png" width="400" alt="Preview">
 
 ## Features
 
