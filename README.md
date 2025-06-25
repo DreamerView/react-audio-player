@@ -4,7 +4,7 @@ A clean and modern React-based audio player built with **Bootstrap 5.3** and **B
 
 ## Live Demo
 
-<img src="/preview.png" width="100%" alt="Preview">
+<img src="public/preview.png" width="100%" alt="Preview">
 
 🌐 [Try it online](https://react-audio-player-pi.vercel.app/)
 
